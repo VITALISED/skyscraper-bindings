@@ -1,0 +1,9 @@
+[submodule "renms"]
+	path = renms
+	url = https://github.com/VITALISED/renms.git
+[submodule "metadata"]
+	path = metadata
+	url = https://github.com/VITALISED/metadata.git
+[submodule "bindings/python/pybind11"]
+	path = bindings/python/pybind11
+	url = https://github.com/pybind/pybind11.git
